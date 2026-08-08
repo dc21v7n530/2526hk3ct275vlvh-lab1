@@ -2,8 +2,7 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-=======
-**Họ tên**: KHANG
+**Họ tên**: Bui Huu Nhan
 
 **MSSV**: DC21V7N530
 
